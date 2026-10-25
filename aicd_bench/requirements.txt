@@ -1,0 +1,14 @@
+numpy
+scikit-learn
+pandas
+datasets
+catboost
+tree-sitter
+tree-sitter-language-pack
+torch
+transformers
+accelerate
+tqdm
+joblib
+# optional: LLM zero-shot baselines (Gemini) and Fast-DetectGPT scoring model
+google-genai

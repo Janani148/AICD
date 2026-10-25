@@ -1,0 +1,16 @@
+
+# Python environments
+venv/
+**/venv/
+.venv/
+**/.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Training logs
+catboost_info/
+
+# Secrets
+.env
